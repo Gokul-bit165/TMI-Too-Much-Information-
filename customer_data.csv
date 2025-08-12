@@ -1,0 +1,101 @@
+customer_id,full_name,age,annual_income,spending_score,num_transactions,last_purchase_days,city
+1001,Emily Martin,45,95726,73,21,58,Miami
+1002,Patricia Hernandez,22,40492,72,24,28,Phoenix
+1003,Michael Miller,38,36102,78,29,36,Chicago
+1004,Elizabeth Hernandez,39,80336,31,26,26,Chicago
+1005,Sophia Williams,51,115314,76,17,8,Chicago
+1006,Michael Brown,26,56641,85,23,58,Houston
+1007,Sally Lopez,60,64584,35,40,60,Houston
+1008,Alex Johnson,52,62745,25,16,50,Los Angeles
+1009,John Lopez,59,53093,60,23,28,Los Angeles
+1010,James Taylor,58,96105,95,16,28,Chicago
+1011,David Thomas,37,81885,66,13,37,Boston
+1012,Patricia Anderson,59,66631,38,11,41,New York
+1013,Elizabeth Lopez,20,102991,87,32,36,Houston
+1014,Thomas Brown,30,34014,78,18,27,Boston
+1015,Henry Jackson,47,41093,56,35,54,Seattle
+1016,Emily Rodriguez,44,48070,71,23,17,Houston
+1017,Emily Moore,42,65777,78,20,9,Houston
+1018,Craig Wilson,50,86958,85,9,33,Los Angeles
+1019,Joseph Rodriguez,49,112074,25,39,53,New York
+1020,Sally Martin,54,40729,99,16,20,New York
+1021,Patricia Miller,26,75017,99,29,13,Miami
+1022,James Davis,35,96320,57,25,28,Phoenix
+1023,Patricia Brown,45,57751,94,40,48,Phoenix
+1024,Robert Taylor,21,108069,48,27,29,Phoenix
+1025,Craig Moore,20,84748,42,20,13,Phoenix
+1026,Michael Williams,31,35801,32,18,46,Seattle
+1027,Sally Garcia,24,49190,19,35,35,Seattle
+1028,David Williams,56,79689,78,9,6,Houston
+1029,Joseph Lopez,51,80993,43,39,18,Chicago
+1030,Sally Martinez,28,59592,61,27,51,Los Angeles
+1031,Craig Wilson,60,40647,19,33,5,Los Angeles
+1032,William Anderson,54,38716,28,15,47,Phoenix
+1033,Michael Wilson,38,118891,67,22,25,Houston
+1034,Michael Thomas,35,117545,10,16,2,Miami
+1035,Linda Moore,22,119912,78,13,10,Boston
+1036,Patricia Gonzalez,39,100316,13,14,56,Chicago
+1037,Laura Anderson,43,32368,25,21,30,Houston
+1038,Linda Smith,52,107575,33,11,50,Chicago
+1039,Emily Rodriguez,43,36655,89,17,59,Chicago
+1040,John Lopez,30,100031,11,13,45,Chicago
+1041,Michael Hernandez,27,106429,41,31,5,Houston
+1042,Elizabeth Taylor,55,117922,100,6,55,Phoenix
+1043,Michael Brown,57,85766,93,9,56,Los Angeles
+1044,Jenny Smith,59,43403,33,33,33,Los Angeles
+1045,Henry Martinez,39,62097,21,23,54,Phoenix
+1046,Emily Rodriguez,54,108657,59,12,1,Chicago
+1047,Emily Rodriguez,44,40966,44,5,18,Boston
+1048,Michael Lopez,54,82921,42,26,32,New York
+1049,Sally Smith,44,79726,42,21,47,Houston
+1050,William Jones,48,80300,70,11,49,New York
+1051,Jenny Lopez,37,52677,60,29,11,Miami
+1052,Michael Brown,37,85609,52,8,21,Phoenix
+1053,John Brown,21,86661,21,40,26,Boston
+1054,Henry Anderson,54,61024,76,10,25,Houston
+1055,Robert Brown,35,100313,74,35,22,Phoenix
+1056,John Jones,60,83006,42,23,59,Chicago
+1057,Robert Miller,55,45338,49,31,27,Los Angeles
+1058,Laura Anderson,52,98027,83,14,49,New York
+1059,Patricia Martinez,23,110135,52,30,13,Seattle
+1060,Linda Jackson,52,49508,53,23,33,Seattle
+1061,Emily Taylor,33,33051,38,7,34,Boston
+1062,Thomas Williams,40,78747,22,17,41,Chicago
+1063,Henry Miller,39,117142,21,32,35,Miami
+1064,Linda Anderson,27,117235,55,24,1,New York
+1065,Sophia Williams,26,84021,11,32,21,Chicago
+1066,Linda Miller,22,96412,44,12,48,New York
+1067,Elizabeth Johnson,36,88335,96,5,55,Boston
+1068,David Gonzalez,52,86179,90,7,6,Boston
+1069,Alex Lopez,31,62093,99,17,28,Miami
+1070,James Martin,41,99678,17,32,17,Seattle
+1071,Sophia Miller,41,110738,35,29,5,Chicago
+1072,John Smith,49,69734,83,37,31,Houston
+1073,Thomas Gonzalez,57,102615,99,10,5,Seattle
+1074,Laura Brown,57,103523,43,36,38,Chicago
+1075,Emily Garcia,27,47019,16,25,3,Seattle
+1076,Michael Rodriguez,46,113613,77,20,53,Houston
+1077,Henry Smith,46,116672,67,25,23,Los Angeles
+1078,Elizabeth Martinez,53,103847,84,15,37,Los Angeles
+1079,James Anderson,40,112750,38,40,53,Miami
+1080,Laura Martin,49,109634,45,39,37,Los Angeles
+1081,Barbara Taylor,52,58251,98,23,10,Los Angeles
+1082,Thomas Lopez,47,55945,30,24,10,Phoenix
+1083,Emily Johnson,52,62217,45,22,19,New York
+1084,Jenny Taylor,24,38308,19,18,17,Phoenix
+1085,Henry Taylor,38,35949,82,19,21,Phoenix
+1086,Barbara Taylor,23,81990,33,35,14,Miami
+1087,Sally Johnson,54,31150,73,5,9,Phoenix
+1088,Henry Smith,36,119480,58,7,46,Los Angeles
+1089,John Jackson,47,104740,45,20,1,Houston
+1090,Sally Lopez,49,96617,91,27,51,Miami
+1091,Alex Williams,48,46896,33,15,45,Miami
+1092,Sophia Taylor,25,76175,32,16,13,Boston
+1093,Alex Jones,54,37805,71,14,4,Miami
+1094,Thomas Johnson,60,35237,46,36,1,Boston
+1095,Alex Hernandez,56,50056,21,20,49,Miami
+1096,William Thomas,43,75543,64,12,40,New York
+1097,John Rodriguez,48,86556,22,16,32,Los Angeles
+1098,Alex Thomas,50,33343,32,28,34,Miami
+1099,Jenny Martin,54,43500,98,32,28,Los Angeles
+1100,Craig Jackson,52,83222,39,12,31,Los Angeles
