@@ -26,4 +26,3 @@
 - Binning and categorization (age group, income group, recency category)
 - Standardization of numerical features
 - Identification of high spenders
-This project is for educational and demonstration purposes.
